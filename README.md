@@ -1,7 +1,5 @@
 # WebSoccer
 
-Add stuff
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
 
 ## Development server
@@ -35,5 +33,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 "# web-soccer"
 "# web-soccer-c1"
 "# web-soccer"
-"# web-soccer" 
+"# web-soccer"
+
 # web-soccer
+"# web-soccer" 
