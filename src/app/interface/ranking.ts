@@ -1,6 +1,6 @@
 export interface Ranking {
     TeamName: String;
-    GamePlayed: number;
+    GamesPlayed: number;
     Wins: number;
     Ties: number;
     GoalsFor: number;
